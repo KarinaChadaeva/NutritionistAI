@@ -43,9 +43,6 @@ project-root/
 │   ├── countries.csv         # Used for cleaning initial dataset
 │   └── us_states.csv         # Used for cleaning initial dataset
 │
-├── models/
-│   └── best_model.pkl        # Final trained classification model used for rating prediction
-│
 └── README.md                 # This file
 ```
 ---

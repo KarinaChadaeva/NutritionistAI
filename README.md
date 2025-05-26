@@ -45,6 +45,8 @@ project-root/
 │
 └── README.md                 # This file
 ```
+The model is avaliable via link https://drive.google.com/file/d/16eOOMCSEynhNkbMB68nb097qcDSEb8HX/view?usp=sharing
+
 ---
 
 ## How to Use

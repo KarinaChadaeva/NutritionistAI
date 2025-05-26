@@ -82,7 +82,6 @@ III. TOP-3 SIMILAR RECIPES
 ## Technologies
 -	Python 3
 -	Pandas, Scikit-learn
--	BeautifulSoup (for web scraping)
 -	Jupyter Notebook (for research and modeling)
 
 Created as part of a Python + Data Science Project at School 21.
